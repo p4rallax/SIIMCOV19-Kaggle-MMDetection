@@ -1,0 +1,1 @@
+{"version": "v1", "folds": 4, "val_fold": 0, "img_size": 512, "batch_size": 1, "epochs": 8, "seed": 2021, "iou_th": 0.5, "th": 0.5, "config": "retinanet_r50_fpn_2x_coco.py", "checkpoint": "retinanet_r50_fpn_2x_coco_20200131-fdb43119.pth", "comments": ""}
